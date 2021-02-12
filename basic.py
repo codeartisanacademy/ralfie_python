@@ -11,3 +11,5 @@ print(type(True))
 x = input("enter a number: ")
 
 print(x)
+
+name = input("enter your name: ")
