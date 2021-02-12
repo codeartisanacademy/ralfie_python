@@ -9,3 +9,5 @@ print(type(False))
 print(type(True))
 
 x = input("enter a number: ")
+
+print(x)
